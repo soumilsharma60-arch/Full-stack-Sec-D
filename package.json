@@ -1,0 +1,13 @@
+{
+  "name": "student-records-rest-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Student Records REST API for Full Stack Development Lab Set A",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
